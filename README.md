@@ -1,5 +1,5 @@
-# 🥭 Scraper for: WoWHead Quests
-This script will scrape through the WoWHead pages to gather information in any provided locale for quests.
+# 🥭 Scraper for: Wowhead Quests
+This script will scrape through the Wowhead pages to gather information in any provided locale for quests.
 
 # 🖥️ How To Use
 * Python is required.
